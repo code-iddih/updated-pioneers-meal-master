@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/updated-pioneers-meal-master/static/css/main.dac605ed.css",
+    "main.js": "/updated-pioneers-meal-master/static/js/main.c9d76723.js",
+    "static/media/food.jpg": "/updated-pioneers-meal-master/static/media/food.5fd2d87782d42f285b53.jpg",
+    "static/media/fa-solid-900.ttf": "/updated-pioneers-meal-master/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/updated-pioneers-meal-master/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/updated-pioneers-meal-master/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/updated-pioneers-meal-master/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/updated-pioneers-meal-master/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/updated-pioneers-meal-master/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/updated-pioneers-meal-master/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/updated-pioneers-meal-master/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/updated-pioneers-meal-master/index.html",
+    "main.dac605ed.css.map": "/updated-pioneers-meal-master/static/css/main.dac605ed.css.map",
+    "main.c9d76723.js.map": "/updated-pioneers-meal-master/static/js/main.c9d76723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac605ed.css",
+    "static/js/main.c9d76723.js"
+  ]
+}
