@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "0c0b",
+      "username": "kil",
+      "email": "idinyamwaya@gmail.com",
+      "password": "kkkkiiii",
+      "profileImage": ""
+    },
+    {
+      "id": "2231",
+      "username": "Name",
+      "email": "updatedemail@example.com",
+      "password": "newpassword",
+      "profileImage": "newimagepath.jpg"
+    },
+    {
+      "id": "9bfe",
+      "username": "Nonzamo",
+      "email": "nonzamo@gmail.com",
+      "password": "12345678",
+      "profileImage": "path/to/image3.jpg"
+    },
+    {
+      "id": "2230",
+      "username": "huj",
+      "email": "updatedemail@example.com",
+      "password": "12345678",
+      "profileImage": "newimagepath.jpg"
+    },
+    {
+      "id": "6e31",
+      "username": "Melci",
+      "email": "melci@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}

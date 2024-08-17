@@ -1,0 +1,94 @@
+.user-profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.user-profile-card {
+    background-color: #f7c4c4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.profile-field {
+    margin-bottom: 15px;
+    text-align: left;
+    color: black;
+}
+
+.profile-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.editable-field {
+    display: flex;
+    align-items: center;
+}
+
+.editable-field input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.editable-field span {
+    flex: 1;
+    font-size: 16px;
+}
+
+.edit-icon {
+    margin-left: 10px;
+    cursor: pointer;
+    color: #777;
+}
+
+.edit-icon:hover {
+    color: #ff6600;
+}
+
+.save-button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff6600;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.logout-button  {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.save-button:hover,
+.logout-button:hover {
+    background-color: #000;
+}
+
+label {
+    color: black;
+}

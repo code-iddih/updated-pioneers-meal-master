@@ -1,0 +1,175 @@
+{
+    "categories": [
+      {
+        "idCategory": "1",
+        "strCategory": "Beef",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
+        "description": "Hearty and flavorful beef dishes ranging from steaks to roasts."
+      },
+      {
+        "idCategory": "2",
+        "strCategory": "Chicken",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+        "description": "Delicious chicken recipes for every occasion, including casseroles and fried chicken."
+      },
+      {
+        "idCategory": "3",
+        "strCategory": "Dessert",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+        "description": "Sweet and indulgent desserts, from cakes to pastries."
+      },
+      {
+        "idCategory": "4",
+        "strCategory": "Pasta",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+        "description": "Savory pasta dishes including classic spaghetti and creamy Alfredo."
+      },
+      {
+        "idCategory": "5",
+        "strCategory": "Seafood",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+        "description": "Fresh seafood recipes featuring fish, shrimp, and other ocean delights."
+      },
+      {
+        "idCategory": "6",
+        "strCategory": "Vegetarian",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/vegetarian.png",
+        "description": "Vegetarian dishes that are both satisfying and nutritious."
+      },
+      {
+        "idCategory": "7",
+        "strCategory": "Vegan",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/vegan.png",
+        "description": "Plant-based recipes that are both delicious and cruelty-free."
+      },
+      {
+        "idCategory": "8",
+        "strCategory": "Pork",
+        "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+        "description": "Tasty pork recipes from BBQ ribs to savory pork chops."
+      }
+    ],
+    "meals": [
+      {
+        "idMeal": "1",
+        "idCategory": "1",
+        "strMeal": "Beef Wellington",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/3r6v2v1579547155.jpg",
+        "strInstructions": "1. Preheat the oven to 400°F (200°C). 2. Season the beef with salt and pepper. 3. Sear the beef in a hot pan until browned. 4. Prepare the mushroom duxelles and spread it over the beef. 5. Wrap the beef in puff pastry and bake until golden brown.",
+        "strIngredient1": "Beef tenderloin",
+        "strIngredient2": "Puff pastry",
+        "strIngredient3": "Mushrooms",
+        "strIngredient4": "Butter",
+        "strIngredient5": "Egg yolk",
+        "strIngredient6": "Salt",
+        "strIngredient7": "Pepper",
+        "description": "A classic dish where beef tenderloin is coated with mushroom duxelles and wrapped in puff pastry, then baked to perfection."
+      },
+      {
+        "idMeal": "2",
+        "idCategory": "2",
+        "strMeal": "Chicken Alfredo",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+        "strInstructions": "1. Cook the pasta according to package instructions. 2. In a pan, cook the chicken until golden brown. 3. Add garlic and cook for 1 minute. 4. Stir in heavy cream and Parmesan cheese to make the Alfredo sauce. 5. Combine pasta with the sauce and chicken.",
+        "strIngredient1": "Chicken breast",
+        "strIngredient2": "Fettucine pasta",
+        "strIngredient3": "Heavy cream",
+        "strIngredient4": "Parmesan cheese",
+        "strIngredient5": "Garlic",
+        "strIngredient6": "Salt",
+        "strIngredient7": "Pepper",
+        "description": "Creamy Alfredo sauce with chicken and pasta, a comforting and rich dish."
+      },
+      {
+        "idMeal": "3",
+        "idCategory": "3",
+        "strMeal": "Classic Cheesecake",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+        "strInstructions": "1. Preheat the oven to 325°F (160°C). 2. Make the crust by combining graham cracker crumbs and butter. 3. Press the mixture into the bottom of a springform pan. 4. Beat cream cheese with sugar and eggs. 5. Pour the mixture over the crust and bake.",
+        "strIngredient1": "Cream cheese",
+        "strIngredient2": "Graham cracker crumbs",
+        "strIngredient3": "Butter",
+        "strIngredient4": "Sugar",
+        "strIngredient5": "Eggs",
+        "strIngredient6": "Vanilla extract",
+        "strIngredient7": "Sour cream",
+        "description": "A rich and creamy cheesecake with a graham cracker crust, perfect for dessert lovers."
+      },
+      {
+        "idMeal": "4",
+        "idCategory": "4",
+        "strMeal": "Spaghetti Carbonara",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1w7w9517.jpg",
+        "strInstructions": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crispy. 3. Beat eggs with Parmesan cheese and black pepper. 4. Toss the pasta with pancetta and egg mixture, allowing the heat to cook the eggs.",
+        "strIngredient1": "Spaghetti",
+        "strIngredient2": "Pancetta",
+        "strIngredient3": "Eggs",
+        "strIngredient4": "Parmesan cheese",
+        "strIngredient5": "Black pepper",
+        "strIngredient6": "Garlic",
+        "strIngredient7": "Salt",
+        "description": "A classic Italian pasta dish with a creamy sauce made from eggs and cheese, combined with crispy pancetta."
+      },
+      {
+        "idMeal": "5",
+        "idCategory": "5",
+        "strMeal": "Shrimp Scampi",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+        "strInstructions": "1. Cook pasta according to package instructions. 2. Sauté shrimp in a pan with garlic and butter. 3. Add white wine and lemon juice to create a sauce. 4. Toss the pasta with the shrimp and sauce.",
+        "strIngredient1": "Shrimp",
+        "strIngredient2": "Fettuccine pasta",
+        "strIngredient3": "Butter",
+        "strIngredient4": "Garlic",
+        "strIngredient5": "White wine",
+        "strIngredient6": "Lemon juice",
+        "strIngredient7": "Parsley",
+        "description": "Garlic butter shrimp served over pasta with a splash of white wine and lemon juice."
+      },
+      {
+        "idMeal": "6",
+        "idCategory": "6",
+        "strMeal": "Vegetable Stir Fry",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1525870304.jpg",
+        "strInstructions": "1. Heat oil in a pan. 2. Add assorted vegetables and stir fry. 3. Add soy sauce, garlic, and ginger. 4. Stir fry until vegetables are tender and serve with rice.",
+        "strIngredient1": "Mixed vegetables",
+        "strIngredient2": "Soy sauce",
+        "strIngredient3": "Garlic",
+        "strIngredient4": "Ginger",
+        "strIngredient5": "Vegetable oil",
+        "strIngredient6": "Rice",
+        "strIngredient7": "Green onions",
+        "description": "A colorful and healthy vegetable stir fry with a savory soy sauce-based glaze."
+      },
+      {
+        "idMeal": "7",
+        "idCategory": "7",
+        "strMeal": "Vegan Chili",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1585565400.jpg",
+        "strInstructions": "1. Sauté onions and garlic in a pot. 2. Add beans, tomatoes, and spices. 3. Simmer for 30 minutes. 4. Serve with bread or rice.",
+        "strIngredient1": "Beans",
+        "strIngredient2": "Tomatoes",
+        "strIngredient3": "Onions",
+        "strIngredient4": "Garlic",
+        "strIngredient5": "Chili powder",
+        "strIngredient6": "Cumin",
+        "strIngredient7": "Vegetable broth",
+        "description": "A hearty and flavorful chili made with beans, tomatoes, and spices, perfect for a comforting meal."
+      },
+      {
+        "idMeal": "8",
+        "idCategory": "8",
+        "strMeal": "Pork Ribs",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+        "strInstructions": "1. Season pork ribs with salt and pepper. 2. Bake in the oven until tender. 3. Brush with barbecue sauce and broil until caramelized.",
+        "strIngredient1": "Pork ribs",
+        "strIngredient2": "Barbecue sauce",
+        "strIngredient3": "Salt",
+        "strIngredient4": "Pepper",
+        "strIngredient5": "Garlic powder",
+        "strIngredient6": "Onion powder",
+        "strIngredient7": "Paprika",
+        "description": "Tender pork ribs baked and finished with a sweet and tangy barbecue sauce."
+      }
+    ]
+  }
+  
