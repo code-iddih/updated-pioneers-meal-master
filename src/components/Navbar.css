@@ -18,6 +18,7 @@
 .navbar-logo {
   height: 40px;
   display: block;
+  margin-left: 20px;
 }
 
 .navbar ul {
