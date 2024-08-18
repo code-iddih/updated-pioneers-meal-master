@@ -49,43 +49,6 @@ const Home = () => {
         </p>
       </section>
 
-      <section className="categories">
-        <div className="category-list">
-          {categories.map((category) => (
-            <div key={category.idCategory} className="category-item">
-              <img src={category.strCategoryThumb} alt={category.strCategory} />
-              <h3>{category.strCategory}</h3>
-              <p>{category.description}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <section className="meals">
-        <div className="meal-list">
-          {meals.map((meal) => (
-            <div key={meal.idMeal} className="meal-item">
-              <img src={meal.strMealThumb} alt={meal.strMeal} />
-              <h3>{meal.strMeal}</h3>
-              <p>{meal.description}</p>
-              <details>
-                <summary>Instructions</summary>
-                <p>{meal.strInstructions}</p>
-              </details>
-              <ul>
-                <li>{meal.strIngredient1}</li>
-                <li>{meal.strIngredient2}</li>
-                <li>{meal.strIngredient3}</li>
-                <li>{meal.strIngredient4}</li>
-                <li>{meal.strIngredient5}</li>
-                <li>{meal.strIngredient6}</li>
-                <li>{meal.strIngredient7}</li>
-              </ul>
-            </div>
-          ))}
-        </div>
-      </section>
-
       <Footer /> 
     </div>
   );
