@@ -3,9 +3,6 @@ import { AuthContext } from "./AuthContext";
 import Footer from "./Footer";
 import "./Home.css";
 
-const categories = [];
-
-const meals = [];
 
 const Home = () => {
   // Accessing the Current User in the system
