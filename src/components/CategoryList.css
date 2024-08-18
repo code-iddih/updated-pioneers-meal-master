@@ -6,11 +6,17 @@ html, body {
   background-color: #f4f4f4;
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
+  overflow-y: auto; 
+  padding-top: 60px; 
+  padding-bottom: 60px; 
 }
 
 body {
+  flex: 1;
   display: flex;
   flex-direction: column;
+  overflow-y: auto;
 }
 
 .category-list-container {
@@ -18,7 +24,7 @@ body {
   display: flex;
   flex-direction: column;
   overflow: auto; 
-  margin-top: -110px; 
+  margin-top: auto; 
 }
 
 .category-list {
@@ -29,14 +35,16 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
   overflow: auto;
+  margin-top: auto;
+  margin: 60px auto;
 }
 
 .category-list h1 {
+  width: 100%;
   text-align: center;
   margin-bottom: 20px;
   font-size: 2em;
   color: #333;
-  margin-left: 800px;
 }
 
 .search-bar {
